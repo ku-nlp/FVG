@@ -1,3 +1,2 @@
-# FVG
-Flexible Visual Grounding. 
-The social media dataset will be made available at this page.
+# SMD4FVG
+The social media dataset for flexible visual grounding will be made available at this page.
